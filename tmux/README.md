@@ -7,9 +7,9 @@ $ ./install_tmux.sh
 - copy data to clipboard via OSC 52
 ## Custom shortcuts
 - prefix key
-  - <kbd>Ctrl</kbd> + <kbd>s</kbd>
+  - <kbd>Ctrl</kbd> + <kbd>a</kbd>
 - copy mode
-  - <kbd>prefix key</kbd> → <kbd>s</kbd>
+  - <kbd>prefix key</kbd> → <kbd>a</kbd>
 - split pane
   - vertically
     - <kbd>prefix key</kbd> → <kbd>→</kbd>
