@@ -15,7 +15,7 @@
     - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
 
 ## Tmux
-- user customization: [tmux/.tmux.conf](https://github.com/kia280/MyEnv/blob/master/tmux/.tmux.conf)
+- [tmux](https://github.com/kia280/dotfiles/blob/master/tmux)
 
 ## Some useful tools
 - [tldr](https://github.com/tldr-pages/tldr): A collection of simplified and community-driven man pages.
